@@ -18,6 +18,8 @@ With cancer as a leading cause of death in the United States, the study of its r
 
 ### Tableau Music Chords Visualization
 
+<i class="fa-brands fa-github-square"></i>
+
 ---
 
 ### GiveR
