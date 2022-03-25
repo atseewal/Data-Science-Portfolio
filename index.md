@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/atseewal/data-science-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Survival for Young Leukemia Patients
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Description
 
-### Markdown
+With cancer as a leading cause of death in the United States, the study of its related data is imperative due to the potential patient benefits. This poster examines the SEER research data of reported cancer diagnoses for the incidence of leukemia in young patients in the United States. The aim is to identify variables, such as prior cancers and treatment, with a unique impact on survival time and five-year survival probabilities using visualizations and different machine learning techniques.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Highlights
 
-```markdown
-Syntax highlighted code block
+* _Publications:_ [Survival Analysis of Young Leukemia Patients](https://doi.org/10.1137/19S019085)
 
-# Header 1
-## Header 2
-### Header 3
+* _Skills:_ Survival Analysis, Neural Networks
 
-- Bulleted
-- List
+* _Technologies:_ R
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+### Tableau Music Chords Visualization
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### GiveR
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atseewal/data-science-portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Rideshare Profitability Calculator
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Bernie Sits App
+
+---
+
+### International Assignments Database
+
+---
+
+### Text2Wkst
+
+---
+
+### Medium Blogging
+
+---
+
+### Sea of Thieves Discord Bot
+
+---
+
+### Medium Webscraping and Visualization
