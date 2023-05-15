@@ -40,7 +40,19 @@ My rideshare profitability calculator is a powerful tool for any rideshare drive
 
 ### Tableau Music Chords Visualization
 
-<i class="fa-brands fa-github-square"></i>
+![Piano Chord Chart - Tableau](https://github.com/atseewal/data-science-portfolio/assets/39170343/ca254dbd-d68b-47cd-9245-962337952cf1)
+
+#### Description
+
+Learning piano chords doesn't have to be difficult! Using data visualization, I created a simple way to pull up basic piano chords. It shows which notes are included in the selected chord and lets you change it to a different type of chord. It also uses parameters to change whether the labels on the piano are the finger used to play the note or the name of the note itself.
+
+#### Highlights
+
+* _Live Demo_: [Piano Chord Chart](https://public.tableau.com/app/profile/drew.seewald/viz/PianoChordDiagram/ChordChart)
+
+* _Skills:_ Data visualization, Tableau parameters, Tableau background images, Tableau custom shapes
+
+* _Technologies:_ Tableau Desktop, Tableau Public
 
 ---
 
