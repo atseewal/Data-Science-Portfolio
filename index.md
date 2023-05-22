@@ -48,7 +48,7 @@ Learning piano chords doesn't have to be difficult! Using data visualization, I 
 
 #### Highlights
 
-* _Live Demo_: [Piano Chord Chart](https://public.tableau.com/app/profile/drew.seewald/viz/PianoChordDiagram/ChordChart)
+* _Live Demo:_ [Piano Chord Chart](https://public.tableau.com/app/profile/drew.seewald/viz/PianoChordDiagram/ChordChart)
 
 * _Skills:_ Data visualization, Tableau parameters, Tableau background images, Tableau custom shapes
 
@@ -57,6 +57,28 @@ Learning piano chords doesn't have to be difficult! Using data visualization, I 
 ---
 
 ### GiveR
+
+![image](https://github.com/atseewal/data-science-portfolio/assets/39170343/70c3388b-a762-4ce5-b254-831be445d3a1)
+
+#### Description
+
+During the 2018 Major League Hacking Local Hack Day, our team was tasked with creating something with the goal of helping the spirit of giving during the holiday season reach those who needed it most. This project, coded and deployed in under 12 hours, was my team's submission.
+
+The goal of GiveR is simple, pair those who have things to give with those who need assistance. The landing page shows the featured organization, and what percentage of need is present during the current month (based on previous data). From here, the sidebar has two sections. There is one for giving. This is where you would go if you had something to donate (time, money, clothes, etc.). You will put in your location, and it will locate places near you that you can donate these goods to.
+
+The other tab is for organizations, and this is where the real power of the application comes from. Organizations fill out their need on a Google form, which then takes these responses and puts them into a Google sheet. This sheet is read directly by the application and feeds the maps in the application.
+
+This application was built using the Shiny package in R, along with Google sheets, Google maps, Google forms, Leaflet (for additional maps) and some HTML/CSS.
+
+#### Highlights
+
+* _Code:_ [GiveR - Repository](https://github.com/atseewal/GiveR)
+
+* _Live Demo_: [GiveR - Live Demo](https://atseewal.shinyapps.io/MLHApp/)
+
+* _Skills:_ UI Design, Data Visualization, Google Sheets API, Web Development, Product Deployment
+
+* _Technologies:_ R, Shiny, Google Sheets, Google Forms, HTML/CSS, Leaflet
 
 ---
 
