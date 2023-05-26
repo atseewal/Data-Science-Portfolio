@@ -84,6 +84,22 @@ This application was built using the Shiny package in R, along with Google sheet
 
 ### Bernie Sits App
 
+![image](https://github.com/atseewal/data-science-portfolio/assets/39170343/0d40e7f3-9180-4135-8ffb-77cb717fdf6a)
+
+#### Description
+
+A Shiny clone of Nick Sawhney's viral Bernie Sits app!
+
+My version only took an afternoon to put together, but uses R's Shiny package to make some small improvements to the original user interface (UI). It has a more modern look and uses regex and popup notifications to sanitize text for the Streetview API and let users know when they have entered a problematic address.
+
+#### Highlights
+
+* _Code:_ [Bernie Sits - Repository](https://github.com/atseewal/Bernie-Sits-Shiny)
+
+* _Skills:_ UI Design, Image Processing, Google Streetview API, Web Development
+
+* _Technologies:_ R, Shiny, Google Streetview, HTML/CSS, Magick, regex
+
 ---
 
 ### International Assignments Database
